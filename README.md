@@ -1,4 +1,4 @@
-# Project-4---COVID--19-Global-Tracker-ETL-project-with-Power-BI
+# COVID--19-Global-Tracker-ETL-project-with-Power-BI
 
 Objective:
 
